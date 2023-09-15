@@ -95,8 +95,13 @@ HTTPレスポンスヘッダーの書式…　【フィールド名】:【内容
 JSON：JavaScript Object Notation
 JavaScriptと相性が良い、ファイルの書き方のルール。テキストベースでデータ量が軽いため、高速な通信を求められる場合に非常に有用である。  
 JSONの基本的な形式は、データのキーと値を{　}の中にコロンで区切って記載するもの。  
-{"Key":"Value"}  
-データが2つ以上ある場合は、カンマで区切る。｛"Key1":"Value1","Key2":"Value2"｝  
+```json
+{"Key":"Value"}
+```
+データが2つ以上ある場合は、カンマで区切る。  
+```json
+｛"Key1":"Value1","Key2":"Value2"｝
+```  
 JSONは文字列、数値、bool値、オブジェクト、配列、nullの6つのデータ型に対応している。
 
 [MDN](https://developer.mozilla.org/ja/docs/Web)
