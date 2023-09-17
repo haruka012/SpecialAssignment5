@@ -106,3 +106,4 @@ JSONは文字列、数値、bool値、オブジェクト、配列、nullの6つ�
 
 [MDN](https://developer.mozilla.org/ja/docs/Web)
 [わわわ](https://wa3.i-3-i.info/)
+[ferret](https://ferret-plus.com/8736)
